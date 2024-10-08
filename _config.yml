@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "HeFei"
-title                    : "Your Name / Site Title"
+title                    : "Shuo Xu/"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
