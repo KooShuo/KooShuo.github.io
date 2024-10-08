@@ -22,13 +22,13 @@ repository               : "KooShuo/KooShuo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shuo Xu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "I have nothing to introduce at the moment."
+  location         : "HeFei"
+  employer         : "AnHui University"
+  uri              : "https://KooShuo.github.io"
+  email            : "e23201012@stu.ahu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
