@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Xu Shuo"
-excerpt:"About me"
+excerpt:"Xu Shuo"
 author_profile: true
 redirect_from: 
   - /about/
